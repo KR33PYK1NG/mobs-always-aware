@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.mobs-always-aware.refmap.json",
+    "package": "rmc.mixins.mobs_always_aware.actual",
+    "mixins": [
+        "MobEntityMixin"
+    ]
+}
